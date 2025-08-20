@@ -1,4 +1,4 @@
-# asl-translator
+# Asl-Translator
 Translating Sign Language words using Computer Vision Model
 # ASL Image Translator – Real-Time Letter & Number Detection
 
