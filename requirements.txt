@@ -1,0 +1,11 @@
+ultralytics==8.0.20
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+torch
+torchvision
+tqdm
+notebook
